@@ -6,7 +6,7 @@ title:Spencer Guo's Resume
 
 
 <div id="webaddress">
-<a href="guo19001@byui.edu">datascience@byui.edu</a>
+<a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/spencer-guo-460757194">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
