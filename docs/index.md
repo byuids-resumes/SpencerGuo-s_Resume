@@ -28,8 +28,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - MySQL
 - Excel
 
-## Reelvant Courses
-- Applied Linear Regressoion
+## Relevant Courses
+- Applied Linear Regression
 - Machine Learning and Data Visualization
 - Data Wrangling and Visualization
 - Business Analytics
@@ -51,16 +51,16 @@ __Brigham Young University - Idaho__, Rexburg, ID
 __Good2Go__, Consultant
 
 - Collected road images from Google API.
-- Built a convolutional neural network (CNN) to train our machine.
+- Built a convolutional neural network (CNN) to predict the number of lines in a road image.
 - Used hyperparameters and image augmentation to improve the model by more than 30%.
 
-### Dashabord Developer
+### Dashboard Developer
 
 `April 2020 - July 2020`
 __Heritage Home Health Care & Hospice__, Rexburg, ID
 
-- Collaborated with teammates on problem shooting and in ETL process.
-- Masted basic Google Data Studio within two weeks. 
+- Collaborated with teammates on troubleshooting and in ETL process.
+- Mastered basic Google Data Studio within two weeks. 
 - Developed and presented ad-hoc dashboards to solve client's needs.
 
 
