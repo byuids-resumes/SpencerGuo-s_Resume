@@ -30,7 +30,7 @@ __Brigham Young University - Idaho__, Rexburg, ID                               
 
 ## Relevant Courses
 - Applied Linear Regression
-- Machine Learning and Data Visualization
+- Machine Learning and Data Mining
 - Data Wrangling and Visualization
 - Business Analytics
 
