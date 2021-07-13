@@ -16,8 +16,8 @@ title:Spencer Guo's Resume
 
 ## Education
 
-`July 2023`
-__Brigham Young University - Idaho__, Rexburg, ID
+
+__Brigham Young University - Idaho__, Rexburg, ID                                                                                                        `July 2023`
 
 - 4.0 Major GPA
 
@@ -38,8 +38,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Data Specialist
 
-`January 2021 - Present`
-__Brigham Young University - Idaho__, Rexburg, ID
+__Brigham Young University - Idaho__, Rexburg, ID                                                                                           `January 2021 - Present`
 
 - Wrangle and prepare data for dashboards.
 - Maintain and update dashboards using R, Shiny, and Power BI.
@@ -47,8 +46,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Data Scientist
 
-`April 2021 - July 2021`
-__Good2Go__, Consultant
+__Good2Go__, Consultant                                                                                                                     `April 2021 - July 2021`
 
 - Collected road images from Google API.
 - Built a convolutional neural network (CNN) to predict the number of lines in a road image.
@@ -56,8 +54,7 @@ __Good2Go__, Consultant
 
 ### Dashboard Developer
 
-`April 2020 - July 2020`
-__Heritage Home Health Care & Hospice__, Rexburg, ID
+__Heritage Home Health Care & Hospice__, Rexburg, ID                                                                                        `April 2020 - July 2020`
 
 - Collaborated with teammates on troubleshooting and in ETL process.
 - Mastered basic Google Data Studio within two weeks. 
